@@ -3,7 +3,6 @@
 **Origem:** Bootcamp Bradesco — IA do Zero à Prática, da DIO  
 **Tema:** engenharia de prompt e IA generativa  
 **Contexto:** atendimento ao cliente de uma operadora fictícia de telefonia móvel  
-**Canal previsto:** WhatsApp
 
 ## Sobre o desafio
 
