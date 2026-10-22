@@ -10,7 +10,7 @@ Este repositório reúne os prompts e a documentação de cada desafio. O foco n
 
 Exercício de engenharia de prompt para estruturar um agente de atendimento de uma operadora fictícia de telefonia móvel, com atuação prevista no WhatsApp. O agente deve esclarecer dúvidas de clientes cautelosos, apresentar opções de planos com base em informações verificadas e orientar os próximos passos da contratação.
 
-- [**Ler a documentação do desafio**](./desafios/README.md)
+- [**Ler a documentação do desafio**](.desafios/README-desafio-zerocell.md)
 - [**Acessar a pasta com o prompt original**](./desafios/)
 
 ## Como os desafios são abordados
